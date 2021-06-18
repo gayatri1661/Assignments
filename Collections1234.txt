@@ -1,0 +1,4 @@
+1.List<String> x = new ArrayList<>();
+2.compilation error
+3.compilartion error
+4.[4,8,4]
